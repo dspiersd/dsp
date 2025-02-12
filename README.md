@@ -3,5 +3,5 @@
 ## Education
 
 ## Work Experience
-![Histogram](assets/histogram-example-2.png)
+![Histogram](assets2/histogram-example-2.png)
 ## Skills
