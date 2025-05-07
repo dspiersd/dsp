@@ -40,8 +40,15 @@
 
 </td><td valign="top" width="33%">
 
-</td></tr></table>  
 
+
+### For the Future  
+<div align="center">  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
+</div>
+
+</td></tr></table>
+<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
