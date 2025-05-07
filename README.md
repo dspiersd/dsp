@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">🎓 💻 I'm Dan the Data Analyst and Student Data Scientist 💻 🎓</div>  
+###🎓 💻 I'm Dan the Data Analyst and Student Data Scientist 💻 🎓
   
 
 - 🔭 I've just started a new role at Dyno-Rod and I am looking to drive data-led decisions!  
